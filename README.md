@@ -1,2 +1,13 @@
 # Gradebook
-A Python program that uses lists to store subjects and grades, update scores, and keep a personal gradebook.
+
+A beginner-friendly Python project to manage subjects and grades using **lists**.  
+It demonstrates how to store, update, and organize academic scores in a simple gradebook.
+
+## Features
+- Stores subjects and corresponding grades in lists  
+- Allows adding new subjects or updating existing scores  
+- Calculates overall grade trends or totals (if desired)
+
+## How to Run
+```bash
+python gradebook.py
